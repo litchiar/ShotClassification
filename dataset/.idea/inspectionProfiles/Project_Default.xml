@@ -1,0 +1,115 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="94">
+            <item index="0" class="java.lang.String" itemvalue="pytest-runner" />
+            <item index="1" class="java.lang.String" itemvalue="pytest" />
+            <item index="2" class="java.lang.String" itemvalue="torch" />
+            <item index="3" class="java.lang.String" itemvalue="einops" />
+            <item index="4" class="java.lang.String" itemvalue="torchvision" />
+            <item index="5" class="java.lang.String" itemvalue="detectron2" />
+            <item index="6" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="7" class="java.lang.String" itemvalue="openai" />
+            <item index="8" class="java.lang.String" itemvalue="transformers" />
+            <item index="9" class="java.lang.String" itemvalue="gradio" />
+            <item index="10" class="java.lang.String" itemvalue="latex2mathml" />
+            <item index="11" class="java.lang.String" itemvalue="mdtex2html" />
+            <item index="12" class="java.lang.String" itemvalue="arxiv" />
+            <item index="13" class="java.lang.String" itemvalue="pymupdf" />
+            <item index="14" class="java.lang.String" itemvalue="python-markdown-math" />
+            <item index="15" class="java.lang.String" itemvalue="coverage" />
+            <item index="16" class="java.lang.String" itemvalue="opencv-contrib-python" />
+            <item index="17" class="java.lang.String" itemvalue="yapf" />
+            <item index="18" class="java.lang.String" itemvalue="pims" />
+            <item index="19" class="java.lang.String" itemvalue="imgaug" />
+            <item index="20" class="java.lang.String" itemvalue="lmdb" />
+            <item index="21" class="java.lang.String" itemvalue="flake8" />
+            <item index="22" class="java.lang.String" itemvalue="PyTurboJPEG" />
+            <item index="23" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="24" class="java.lang.String" itemvalue="fvcore" />
+            <item index="25" class="java.lang.String" itemvalue="soundfile" />
+            <item index="26" class="java.lang.String" itemvalue="interrogate" />
+            <item index="27" class="java.lang.String" itemvalue="av" />
+            <item index="28" class="java.lang.String" itemvalue="parameterized" />
+            <item index="29" class="java.lang.String" itemvalue="future" />
+            <item index="30" class="java.lang.String" itemvalue="librosa" />
+            <item index="31" class="java.lang.String" itemvalue="moviepy" />
+            <item index="32" class="java.lang.String" itemvalue="wandb" />
+            <item index="33" class="java.lang.String" itemvalue="isort" />
+            <item index="34" class="java.lang.String" itemvalue="decord" />
+            <item index="35" class="java.lang.String" itemvalue="xdoctest" />
+            <item index="36" class="java.lang.String" itemvalue="googlesearch-python" />
+            <item index="37" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="38" class="java.lang.String" itemvalue="commentjson" />
+            <item index="39" class="java.lang.String" itemvalue="pandoc" />
+            <item index="40" class="java.lang.String" itemvalue="pdfplumber" />
+            <item index="41" class="java.lang.String" itemvalue="langchain" />
+            <item index="42" class="java.lang.String" itemvalue="unstructured" />
+            <item index="43" class="java.lang.String" itemvalue="google-search-results" />
+            <item index="44" class="java.lang.String" itemvalue="PyPDF2" />
+            <item index="45" class="java.lang.String" itemvalue="wolframalpha" />
+            <item index="46" class="java.lang.String" itemvalue="wikipedia" />
+            <item index="47" class="java.lang.String" itemvalue="pypinyin" />
+            <item index="48" class="java.lang.String" itemvalue="google.generativeai" />
+            <item index="49" class="java.lang.String" itemvalue="termcolor" />
+            <item index="50" class="java.lang.String" itemvalue="PIL" />
+            <item index="51" class="java.lang.String" itemvalue="mmcv" />
+            <item index="52" class="java.lang.String" itemvalue="ftfy" />
+            <item index="53" class="java.lang.String" itemvalue="scipy" />
+            <item index="54" class="java.lang.String" itemvalue="timm" />
+            <item index="55" class="java.lang.String" itemvalue="numpy" />
+            <item index="56" class="java.lang.String" itemvalue="sklearn" />
+            <item index="57" class="java.lang.String" itemvalue="altgraph" />
+            <item index="58" class="java.lang.String" itemvalue="google-pasta" />
+            <item index="59" class="java.lang.String" itemvalue="opt-einsum" />
+            <item index="60" class="java.lang.String" itemvalue="smmap" />
+            <item index="61" class="java.lang.String" itemvalue="PyQt5-sip" />
+            <item index="62" class="java.lang.String" itemvalue="gitdb" />
+            <item index="63" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="64" class="java.lang.String" itemvalue="urllib2-prior-auth" />
+            <item index="65" class="java.lang.String" itemvalue="Keras-Preprocessing" />
+            <item index="66" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="67" class="java.lang.String" itemvalue="zipp" />
+            <item index="68" class="java.lang.String" itemvalue="certifi" />
+            <item index="69" class="java.lang.String" itemvalue="pywin32-ctypes" />
+            <item index="70" class="java.lang.String" itemvalue="astunparse" />
+            <item index="71" class="java.lang.String" itemvalue="latexify-py" />
+            <item index="72" class="java.lang.String" itemvalue="urllib3" />
+            <item index="73" class="java.lang.String" itemvalue="PyQtWebEngine-Qt5" />
+            <item index="74" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="75" class="java.lang.String" itemvalue="wincertstore" />
+            <item index="76" class="java.lang.String" itemvalue="GitPython" />
+            <item index="77" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="78" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="79" class="java.lang.String" itemvalue="dill" />
+            <item index="80" class="java.lang.String" itemvalue="packaging" />
+            <item index="81" class="java.lang.String" itemvalue="scikit-video" />
+            <item index="82" class="java.lang.String" itemvalue="pefile" />
+            <item index="83" class="java.lang.String" itemvalue="pyinstaller-hooks-contrib" />
+            <item index="84" class="java.lang.String" itemvalue="PyQtWebEngine" />
+            <item index="85" class="java.lang.String" itemvalue="pandas" />
+            <item index="86" class="java.lang.String" itemvalue="tqdm" />
+            <item index="87" class="java.lang.String" itemvalue="urllib2-file" />
+            <item index="88" class="java.lang.String" itemvalue="fonttools" />
+            <item index="89" class="java.lang.String" itemvalue="colorama" />
+            <item index="90" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="91" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="92" class="java.lang.String" itemvalue="pytz" />
+            <item index="93" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="model.baseline.Transformer.ViViT.transformer.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
